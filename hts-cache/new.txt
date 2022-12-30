@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:47:17	16/16	---M--	502	error ('Bad%20Gateway')	text/plain	date:Thu,%2022%20Dec%202022%2017:47:17%20GMT	https://skillex.webflow.io/robots.txt		(from )
+14:47:18	63924/63924	---M-Z	200	added ('OK')	text/html	date:Thu,%2022%20Dec%202022%2017:47:17%20GMT	https://skillex.webflow.io/	/home/german/websites/prueba2/skillex.webflow.io/index.html	(from )
